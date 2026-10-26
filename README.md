@@ -1,4 +1,13 @@
+<p align="center">
+  <img src="./logo.svg" alt="u1 abacus logo" width="260">
+</p>
+
 # Hi, I'm Juan Whitty 👋
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/juanbwhitty"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:juanangeloroy.whitty@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 **Computer Science (Data Science) student at FEU Institute of Technology, Manila** · President, ACM FEU Tech Student Chapter
 
@@ -69,6 +78,12 @@ I turn messy data into clear, evidence-based insights with Python, SQL, and stat
 - **President, ACM FEU Tech Student Chapter** (Jul 2026–present): expanded the annual plan from 14 to 16 programs; 402 members enrolled in the first term, 84% of last year's full-year total
 - **Head of Sponsorships, ACM FEU Tech** (Sep 2024–Jul 2025): doubled the sponsor network, securing ~₱75,000 in long-term agreements
 - **Makati Local Youth Development Council** (Apr 2024–present): helped finalize the 2025–2030 Local Youth Development Plan for 200,000+ young residents
+
+## 🔥 Contribution streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=u1yuan&theme=tokyonight&hide_border=true" alt="Juan's GitHub contribution streak">
+</p>
 
 <details>
 <summary><b>📈 GitHub stats</b></summary>
